@@ -11,6 +11,8 @@ https://github.com/hugeterry/CoordinatorTabLayout
                               
 預覽
 --------
-![image](https://i.imgur.com/UWP6EtG.jpg)                                      
+![image](https://i.imgur.com/4rWbmRP.png)                                      
 
-![image](https://i.imgur.com/lpe53ym.jpg)    
+![image](https://i.imgur.com/1XrbgR4.png)                                      
+
+![image](https://i.imgur.com/cTM1Li5.png) 
